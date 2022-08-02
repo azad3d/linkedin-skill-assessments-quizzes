@@ -306,7 +306,7 @@ E. Ellipse
 
 - [ ] A, B, C
 - [ ] A, C, E
-- [ ] B, C, E
+- [x] B, C, E
 - [ ] B, D, E
 
 #### Q38. Which option can create a color field that automatically adjusts size as you add or subtract from a text layer?
@@ -338,7 +338,7 @@ E. Ellipse
 
 - [ ] Sequence
 - [ ] File
-- [ ] Edit
+- [x] Edit
 - [ ] Clip
 
 #### Q42. Which adjustment can you use to quickly convert log footage using recommended settings by a camera manufacturer?
@@ -380,7 +380,7 @@ E. Ellipse
 
 #### Q47. You want to float the History panel independently to position it on another monitor as a floating window. Which option in the panel's submenu should you select?
 
-- [ ] Undock Panel
+- [x] Undock Panel
 - [ ] Undock Frame
 - [ ] Maximize Panel
 - [ ] Maximize Frame
