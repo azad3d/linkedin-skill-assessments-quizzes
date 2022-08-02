@@ -338,7 +338,7 @@ E. Ellipse
 
 - [ ] Sequence
 - [ ] File
-- [ ] Edit
+- [x] Edit
 - [ ] Clip
 
 #### Q42. Which adjustment can you use to quickly convert log footage using recommended settings by a camera manufacturer?
